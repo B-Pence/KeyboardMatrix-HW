@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KeyboardMatrix")(type "KiCad")(uri "${KIPRJMOD}/KeyboardMatrix.kicad_sym")(options "")(descr ""))
+)
