@@ -849,7 +849,7 @@
 		)
 		(symbol "Keyboard-Conn_1_1"
 			(pin passive line
-				(at 8.9469 10.0973 180)
+				(at 8.89 10.16 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -867,7 +867,7 @@
 				)
 			)
 			(pin output line
-				(at 8.9241 -10.2796 180)
+				(at 8.89 -10.16 180)
 				(length 2.54)
 				(name "Row-0"
 					(effects
@@ -885,7 +885,7 @@
 				)
 			)
 			(pin output line
-				(at 8.9241 -7.7396 180)
+				(at 8.89 -7.62 180)
 				(length 2.54)
 				(name "Row-1"
 					(effects
@@ -1029,7 +1029,7 @@
 				)
 			)
 			(pin output line
-				(at 8.9241 -5.1996 180)
+				(at 8.89 -5.08 180)
 				(length 2.54)
 				(name "Row-2"
 					(effects
@@ -1047,7 +1047,7 @@
 				)
 			)
 			(pin output line
-				(at 8.9241 -2.6596 180)
+				(at 8.89 -2.54 180)
 				(length 2.54)
 				(name "Row-3"
 					(effects
@@ -1065,7 +1065,7 @@
 				)
 			)
 			(pin output line
-				(at 8.9241 -0.1196 180)
+				(at 8.89 0 180)
 				(length 2.54)
 				(name "Row-4"
 					(effects
@@ -1083,7 +1083,7 @@
 				)
 			)
 			(pin output line
-				(at 8.9241 2.4204 180)
+				(at 8.89 2.54 180)
 				(length 2.54)
 				(name "Row-5"
 					(effects
@@ -1119,7 +1119,7 @@
 				)
 			)
 			(pin output line
-				(at 8.9469 7.5573 180)
+				(at 8.89 7.62 180)
 				(length 2.54)
 				(name "Row-7"
 					(effects
