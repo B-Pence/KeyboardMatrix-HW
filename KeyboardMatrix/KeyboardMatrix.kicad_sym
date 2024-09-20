@@ -755,7 +755,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "Keyboard Conn"
-			(at -0.508 -13.462 0)
+			(at 0 -13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -763,7 +763,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 7.6428 -12.7569 0)
+			(at 7.6541 -12.8196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -771,7 +771,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 7.6428 -12.7569 0)
+			(at 7.6541 -12.8196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -780,7 +780,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 7.6428 -12.7569 0)
+			(at 7.6541 -12.8196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -789,7 +789,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 7.6428 -12.7569 0)
+			(at 7.6541 -12.8196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -849,7 +849,7 @@
 		)
 		(symbol "Keyboard-Conn_1_1"
 			(pin passive line
-				(at 6.35 10.16 0)
+				(at 8.9469 10.0973 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -867,7 +867,7 @@
 				)
 			)
 			(pin output line
-				(at 6.3728 -10.2169 0)
+				(at 8.9241 -10.2796 180)
 				(length 2.54)
 				(name "Row-0"
 					(effects
@@ -885,7 +885,7 @@
 				)
 			)
 			(pin output line
-				(at 6.3728 -7.6769 0)
+				(at 8.9241 -7.7396 180)
 				(length 2.54)
 				(name "Row-1"
 					(effects
@@ -903,7 +903,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -5.08 180)
+				(at -10.16 -5.08 0)
 				(length 2.54)
 				(name "Col-2"
 					(effects
@@ -921,7 +921,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -2.54 180)
+				(at -10.16 -2.54 0)
 				(length 2.54)
 				(name "Col-3"
 					(effects
@@ -939,7 +939,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 0 180)
+				(at -10.16 0 0)
 				(length 2.54)
 				(name "Col-4"
 					(effects
@@ -957,7 +957,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 2.54 180)
+				(at -10.16 2.54 0)
 				(length 2.54)
 				(name "Col-5"
 					(effects
@@ -975,7 +975,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 5.08 180)
+				(at -10.16 5.08 0)
 				(length 2.54)
 				(name "Col-6"
 					(effects
@@ -993,7 +993,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 7.62 180)
+				(at -10.16 7.62 0)
 				(length 2.54)
 				(name "Col-7"
 					(effects
@@ -1011,7 +1011,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 10.16 180)
+				(at -10.16 10.16 0)
 				(length 2.54)
 				(name "Col-8"
 					(effects
@@ -1029,7 +1029,7 @@
 				)
 			)
 			(pin output line
-				(at 6.3728 -5.1369 0)
+				(at 8.9241 -5.1996 180)
 				(length 2.54)
 				(name "Row-2"
 					(effects
@@ -1047,7 +1047,7 @@
 				)
 			)
 			(pin output line
-				(at 6.3728 -2.5969 0)
+				(at 8.9241 -2.6596 180)
 				(length 2.54)
 				(name "Row-3"
 					(effects
@@ -1065,7 +1065,7 @@
 				)
 			)
 			(pin output line
-				(at 6.3728 -0.0569 0)
+				(at 8.9241 -0.1196 180)
 				(length 2.54)
 				(name "Row-4"
 					(effects
@@ -1083,7 +1083,7 @@
 				)
 			)
 			(pin output line
-				(at 6.3728 2.4831 0)
+				(at 8.9241 2.4204 180)
 				(length 2.54)
 				(name "Row-5"
 					(effects
@@ -1101,7 +1101,7 @@
 				)
 			)
 			(pin output line
-				(at 6.4069 5.1427 0)
+				(at 8.89 5.08 180)
 				(length 2.54)
 				(name "Row-6"
 					(effects
@@ -1119,7 +1119,7 @@
 				)
 			)
 			(pin output line
-				(at 6.35 7.62 0)
+				(at 8.9469 7.5573 180)
 				(length 2.54)
 				(name "Row-7"
 					(effects
@@ -1137,7 +1137,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -10.16 180)
+				(at -10.16 -10.16 0)
 				(length 2.54)
 				(name "Col-0"
 					(effects
@@ -1155,7 +1155,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -7.62 180)
+				(at -10.16 -7.62 0)
 				(length 2.54)
 				(name "Col-1"
 					(effects
